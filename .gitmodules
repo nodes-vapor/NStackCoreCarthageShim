@@ -1,0 +1,3 @@
+[submodule "swift-core"]
+	path = swift-core
+	url = git@github.com:nstack-io/swift-core.git
